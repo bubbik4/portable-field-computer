@@ -2,7 +2,7 @@
 
 ## M0 - Project Initialization
 
-Status: in progress
+Status: Finished
 
 - [x] Define initial project concept
 - [x] Create GH repository
@@ -12,9 +12,9 @@ Status: in progress
 
 ## M1 - Hardware Research
 
-Status: not started
+Status: In progress
 
-- [ ] Compare ARM SBC platforms
+- [x] Compare ARM SBC platforms
 - [ ] Evaluate CPU and GPU performance
 - [ ] Evaluate RAM configurations
 - [ ] Evaluate storage interfaces

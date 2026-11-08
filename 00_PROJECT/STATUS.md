@@ -1,14 +1,14 @@
 # Project Status
 
-Last Updated: 2026-11-06
+Last Updated: 2026-11-08
 
 ## Current Phase
 
-Phase 0 - Project Initialization
+Phase 1 - Initial hardware research
 
 ## Overall Progress
 
-Project documentation and development env. setup.
+Initial documentation structure is finished. Starting research on SBC solution and evaluating the choices
 
 ## Completed
 
@@ -16,16 +16,19 @@ Project documentation and development env. setup.
 - [x] Initial hardware requirements
 - [x] Documentation approach selected
 - [x] Repository initialization
+- [x] Documentation Structure
+- [x] Initial architecture research
 
 ## In progress
 
-- [ ] Initial architecture research
-- [ ] Documentation Structure
+- [ ] Finalize SBC requirements
+- [ ] Compare SBC options and their capabilities
+- [ ] Selecting main computing platform
 
 ## Latest
 
-- Initial project scope defined
-- Initial documentation structure proposed
+- Documentation Structure finished
+- Started SBC research
 
 ## Next Milestone
 
