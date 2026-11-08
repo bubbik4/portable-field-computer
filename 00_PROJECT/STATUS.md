@@ -18,17 +18,16 @@ Initial documentation structure is finished. Starting research on SBC solution a
 - [x] Repository initialization
 - [x] Documentation Structure
 - [x] Initial architecture research
-
+- [x] Finalize SBC requirements
+- [x] Compare SBC options and their capabilities
 ## In progress
 
-- [ ] Finalize SBC requirements
-- [ ] Compare SBC options and their capabilities
 - [ ] Selecting main computing platform
 
 ## Latest
 
-- Documentation Structure finished
-- Started SBC research
+- Finalize SBC requirements
+- Compare SBC options and their capabilities
 
 ## Next Milestone
 

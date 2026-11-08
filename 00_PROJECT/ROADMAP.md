@@ -15,10 +15,10 @@ Status: Finished
 Status: In progress
 
 - [x] Compare ARM SBC platforms
-- [ ] Evaluate CPU and GPU performance
-- [ ] Evaluate RAM configurations
-- [ ] Evaluate storage interfaces
-- [ ] Compare Linux compatibility
+- [x] Evaluate CPU and GPU performance
+- [x] Evaluate RAM configurations
+- [x] Evaluate storage interfaces
+- [x] Compare Linux compatibility
 - [ ] Select main computing platform
 
 ## M2 - Display and Input
