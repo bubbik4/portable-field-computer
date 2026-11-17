@@ -1,0 +1,12 @@
+{
+  "terminal:open-terminal.default.current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "terminal:toggle-focus-on-last-terminal": []
+}
