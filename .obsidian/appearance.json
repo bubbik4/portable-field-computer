@@ -1,1 +1,5 @@
-{}
+{
+  "accentColor": "#6133cc",
+  "cssTheme": "Obuntu",
+  "nativeMenus": false
+}
